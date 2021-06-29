@@ -8,9 +8,9 @@
  - :computer:  Programación entorno servidor: Java, MySQL, MongoDB, NodeJS
  
  
- Puedes consultar mi perfil de [linkedin](https://www.linkedin.com/in/katherinepaucar/)
+ :briefcase: Puedes consultar mi perfil de [linkedin](https://www.linkedin.com/in/katherinepaucar/)
 
-[link to Google!](http://google.com)
+
 <!--
 **katherinepaucar/katherinepaucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
