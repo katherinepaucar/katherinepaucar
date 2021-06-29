@@ -1,6 +1,14 @@
 ### Hi there 👋
 # console.log("Hello World 👋")
 
+ Estoy aprendiendo a programar con diferentes tecnologías y este es mi espacio personal en el que podéis encontrar todos los proyectos en los que he trabajado.
+ Principales lenguajes/plataformas utilizadas:
+ - Programación entorno cliente: HTML, CSS,HTML5, CSS3, Boostrap, JavaScript, TypeScript,Angular React.
+ - Programación entorno servidor: Java, MySQL, MongoDB, NodeJS
+ 
+ 
+ Mi perfil de linkedin es [link](https://www.linkedin.com/in/katherinepaucar/)
+
 [link to Google!](http://google.com)
 <!--
 **katherinepaucar/katherinepaucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
