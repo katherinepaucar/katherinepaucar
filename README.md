@@ -4,8 +4,8 @@
  Estoy aprendiendo a programar con diferentes tecnologías y este es mi espacio personal en el que podéis encontrar todos los proyectos en los que he trabajado.
  
  Principales lenguajes/plataformas utilizadas:
- - Programación entorno cliente: HTML, CSS,HTML5, CSS3, Bootstrap, JavaScript, TypeScript,Angular React.
- - Programación entorno servidor: Java, MySQL, MongoDB, NodeJS
+ - :computer: Programación entorno cliente: HTML, CSS,HTML5, CSS3, Bootstrap, JavaScript, TypeScript,Angular React.
+ - :computer:  Programación entorno servidor: Java, MySQL, MongoDB, NodeJS
  
  
  Puedes consultar mi perfil de [linkedin](https://www.linkedin.com/in/katherinepaucar/)
