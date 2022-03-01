@@ -22,7 +22,7 @@ Some of my projects:
 
 | Turismo Madrid Angular | Viajes con React | Librería con HTML, CSS y JS  |
 |---|---|---|
-| <a href="https://katherine-msl.web.app/home" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/fe2b711f9f08ae42f02e2629e32a6ab80c168d2c/katherine-msl.web.app.png" width="300" height="200"/></a> | <a href="https://katherine-ps.web.app/" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/f377fbe5444dcdc9e8d84f2a990cdba8318f8331/katherine-ps.web.app.png" width="300" height="200"/></a> | <a href="https://katherinepaucar.github.io/WebLibreria/" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/fe2b711f9f08ae42f02e2629e32a6ab80c168d2c/katherinepaucar.github.io.png" width="300" height="200"/></a>  |
+| <a href="https://katherine-msl.web.app/home" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/main/katherine-msl.web.app.png" width="300" height="200"/></a> | <a href="https://katherine-ps.web.app/" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/f377fbe5444dcdc9e8d84f2a990cdba8318f8331/katherine-ps.web.app.png" width="300" height="200"/></a> | <a href="https://katherinepaucar.github.io/WebLibreria/" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/fe2b711f9f08ae42f02e2629e32a6ab80c168d2c/katherinepaucar.github.io.png" width="300" height="200"/></a>  |
 
 Connect with me:
 --------------------
