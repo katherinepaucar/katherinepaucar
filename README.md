@@ -22,12 +22,12 @@ Connect with me:
 <a href="https://www.linkedin.com/in/katherinepaucar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/katherinepaucar/" height="30" width="40" /></a>
 </p>
 
-#### Algunos de mis proyectos:
-
+Some of my projects:
+------------
 
 | Turismo Madrid Angular | Viajes con React | Librería con HTML, CSS y JS  |
 |---|---|---|
-| <a href="https://katherine-msl.web.app/home" target="_blank"> <img src="/katherine-msl.web.app.png" width="250" height="200"/></a> | <a href="https://katherine-ps.web.app/" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://katherinepaucar.github.io/WebLibreria/" target="_blank"> <img src="/images/katherine-msl.web.app.png" width="250" height="200"/></a>  |
+| <a href="https://katherine-msl.web.app/home" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/fe2b711f9f08ae42f02e2629e32a6ab80c168d2c/katherine-msl.web.app.png" width="300" height="200"/></a> | <a href="https://katherine-ps.web.app/" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/f377fbe5444dcdc9e8d84f2a990cdba8318f8331/katherine-ps.web.app.png" width="300" height="200"/></a> | <a href="https://katherinepaucar.github.io/WebLibreria/" target="_blank"> <img src="https://github.com/katherinepaucar/images/blob/fe2b711f9f08ae42f02e2629e32a6ab80c168d2c/katherinepaucar.github.io.png" width="300" height="200"/></a>  |
 
 <!--
 **katherinepaucar/katherinepaucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
