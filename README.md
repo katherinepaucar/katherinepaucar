@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katherinepaucar&label=Profile%20views&color=0e75b6&style=flat" alt="katherinepaucar" /> </p>
+<img src="https://komarev.com/ghpvc/?username=katherinepaucar&label=Profile%20views&color=0e75b6&style=flat" alt="katherinepaucar" />
 <h1 align="center">Hi 👋, I'm Katherine</h1>
 <h3 align="center">I'm Junior Developer Web</h3>
 I'm learning diferents languages and this is my personal space where you can find my proyects. 
