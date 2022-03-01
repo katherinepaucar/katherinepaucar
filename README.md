@@ -1,7 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katherinepaucar&label=Profile%20views&color=0e75b6&style=flat" alt="katherinepaucar" /> </p>
 <h1 align="center">Hi 👋, I'm Katherine</h1>
 <h3 align="center">I'm Junior Developer Web</h3>
-I'm learning diferents languages and this is my personal space where you can find my proyects. I am looking for my first opportunity as a developer where I can contribute my knowledge and my desire to become a good developer. 
+I'm learning diferents languages and this is my personal space where you can find my proyects. 
+I am looking for my first opportunity as a developer where I can contribute my knowledge and my desire to become a good developer. 
+
+#### I’m currently working on:
+- Reinforce knowledge in JS, React & PHP
+- Plan and develop my portfolio.
 
 Languages and Tools:
 ----------------------
